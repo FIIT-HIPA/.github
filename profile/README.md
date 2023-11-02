@@ -12,3 +12,4 @@ Team members:
 - Radovan Záborský
 - Mário Kolenič
 - Peter Koszorús
+- Adam Koričanský
