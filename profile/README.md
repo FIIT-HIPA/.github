@@ -1,4 +1,8 @@
-# FIIT-HIPA
+# Faculty of Informatics and Information Technologies - Dynamic Histological Atlas
+
+---
+
+This project is meant to for histology medicine students on Comedius university.
 
 Colage Team project organised on FIIT STU university.
 
